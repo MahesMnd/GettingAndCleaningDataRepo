@@ -15,6 +15,3 @@ The script 'run_analysis.R' in this repository downloads the project data if it 
 'run_analysis.R' contains the code to perform the analyses described in the 5 steps. It can be run in RStudio by importing the file :source("run_analysis.R").
 
 The final output of the script 'run-analysis.R' is called 'Output_TidyDataSet.txt', and is uploaded in the course project's form and this repository.
-
-
-
